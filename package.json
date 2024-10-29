@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sakpal Amit",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
